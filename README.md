@@ -1,4 +1,4 @@
-Android FloatingActionButtonBasic Sample
+Android FAB Sample 21
 ==============================
 
 Introduction
@@ -10,8 +10,8 @@ them.
 Pre-requisites
 --------------
 
-- Android SDK (L Preview)
-- Android Build Tools v20
+- Android 5 SDK, v.21
+- Android Build Tools v21+
 - Android Support Repository
 
 Getting Started
